@@ -11,7 +11,7 @@
 ## Результаты
 
 1. 100% не успешных тестов
-2. Баг-репорт [https://github.com/Alexlopotov/programming/issues/2]
+2. [Баг-репорт](https://github.com/Alexlopotov/programming/issues/2)
 
 ## Общие рекомендации
 
